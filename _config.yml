@@ -12,7 +12,7 @@ github_repo: "https://github.com/snrntpa2z/snrntpa2z.github.io.git" # you code r
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Life is short. but Dream is Big!"
-site.sidebar-about-name: "이인호"
+sidebar-about-name: "이인호"
 sidebar-avatar: /img/profile.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # SNS settings
